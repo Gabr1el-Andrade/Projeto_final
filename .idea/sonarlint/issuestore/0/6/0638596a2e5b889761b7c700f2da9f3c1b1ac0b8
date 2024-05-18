@@ -1,0 +1,21 @@
+
+‰
+java:S1192D"FDefine a constant instead of duplicating this literal "growl" 8 times.(Æ¤¤8¤çüŞø1J$11df4cb7-96f0-42ca-87cc-5c771a3f41cc
+_
+java:S4973Æ"<Strings and Boxed types should be compared using "equals()".(ÅÙ¯üÿÿÿÿ8ùÊ–áø1
+Š
+java:S6813&"BRemove this field injection and use constructor injection instead.(Áº–üÿÿÿÿ8Ò«èàø1J$3d7fa395-d40d-42c5-a7e0-f8d2f3d204a0
+Š
+java:S6813)"BRemove this field injection and use constructor injection instead.(Áº–üÿÿÿÿ8Ò«èàø1J$be97006a-70ce-4aea-808e-adf4a5455452
+Š
+java:S6813,"BRemove this field injection and use constructor injection instead.(Áº–üÿÿÿÿ8Ò«èàø1J$e33d3ccf-086b-421f-be2b-60027d42862f
+L
+java:S1948""/Make "categoriaMeme" transient or serializable.(áŠ¦Î8ğË–áø1
+V
+java:S1948$"9Make "categoriaMemeCollection" transient or serializable.(°­ÉÙ8ğË–áø1
+D
+java:S19485"'Make "memes" transient or serializable.(ÔÏ8ğË–áø1
+M
+java:S19487"1Make "memeSelecionado" transient or serializable.(ó‹†8ğË–áø1
+p
+java:S1602Î",Remove useless curly braces around statement(°ÛıÙ8úçüŞø1J$80e39f4e-3b9a-4274-8bf8-81da3e9f201c

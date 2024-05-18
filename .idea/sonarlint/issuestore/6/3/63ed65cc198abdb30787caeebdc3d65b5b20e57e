@@ -1,0 +1,9 @@
+
+¦
+java:S1488^"^Immediately return this expression instead of assigning it to the temporary variable "result".(î¾À›üÿÿÿÿ8•Îƒàø1J$971db69c-23b3-47c2-a95b-3c8a4451d311
+Ä
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆÃ»·8·Îƒàø1J$33d0fd48-f56b-418a-b9dc-da8443281085
+~
+java:S4144"`Update this method so that its implementation is not identical to "setMemeCheckers" on line 135.(¨ª½Ê8Ëµ–áø1
+…
+java:S1117e"=Rename "somaTotal" which hides the field declared at line 56.(¿Âñ¡ùÿÿÿÿ8ÈÎƒàø1J$4b96fe84-a371-41de-b2f8-4743c89a6fea
